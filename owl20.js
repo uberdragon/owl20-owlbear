@@ -35,4 +35,3 @@ OBR.onReady(() => {
       renderRoll(event.data); 
   })
 })
-window.OBR = OBR // for debug

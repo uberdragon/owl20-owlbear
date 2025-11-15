@@ -17,7 +17,7 @@ License : https://github.com/kakaroto/Beyond20/blob/master/LICENSE.MIT
     --text-primary: #fff;
     --text-secondary: rgba(255, 255, 255, 0.7);
 
-    --spell-color : rgb(241, 173, 255);
+    --spell-color : rgb(200, 173, 255);
     --red : #FF5C5C;
     --green : #5CFF5C;
     --green-bg : green;
@@ -49,7 +49,7 @@ body[data-theme="LIGHT"] {
     --text-secondary: rgba(0, 0, 0, 0.6);
 
 
-    --spell-color : purple;
+    --spell-color : rgb(107, 71, 178);
     --red : darkred;
     --green : darkgreen;
     --green-bg : lightgreen ;
